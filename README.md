@@ -27,3 +27,7 @@ All the bookmarked and useful links come here!
 ### Beautify images of source code
 
 - https://carbon.now.sh/
+
+### Free favicon icon generator 
+
+- https://favicon.io/
