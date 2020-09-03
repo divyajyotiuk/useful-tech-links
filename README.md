@@ -18,7 +18,12 @@ All the bookmarked and useful links come here!
 ### tech blogs
 
 - https://dev.to/
+- https://hashnode.com/
 
 ### tweet-scheduler 
 
 - https://twittimer.com/app/#/
+
+### Beautify images of source code
+
+- https://carbon.now.sh/
