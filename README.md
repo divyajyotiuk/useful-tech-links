@@ -31,3 +31,7 @@ All the bookmarked and useful links come here!
 ### Free favicon icon generator 
 
 - https://favicon.io/
+
+### Open source contribution reference
+
+- https://www.firsttimersonly.com/
