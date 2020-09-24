@@ -5,6 +5,12 @@ All the bookmarked and useful links come here!
 ### tutorials, books, courses
 
 - https://hackr.io/
+- https://www.coursera.org/
+- http://freecodecamp.org
+- http://codecademy.com
+- http://coursera.org
+- http://sololearn.com
+- http://khanacademy.org
 
 ### Clojure related
 
@@ -19,6 +25,10 @@ All the bookmarked and useful links come here!
 
 - https://dev.to/
 - https://hashnode.com/
+
+### Cover image maker
+
+- https://coverview.now.sh/
 
 ### tweet-scheduler 
 
@@ -64,6 +74,7 @@ All the bookmarked and useful links come here!
 ### Machine Learning 
 
 - Reddit thread https://www.reddit.com/r/learnprogramming/comments/ejujef/machine_learning_2020_the_year_of_ml/?utm_medium=android_app&utm_source=share
+- http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml
 
 ### Coding Platforms
 
@@ -75,3 +86,26 @@ All the bookmarked and useful links come here!
 - https://projecteuler.net/
 - https://www.hackerearth.com/
 - https://exercism.io/
+
+### Content to bookmark
+- https://www.coursera.org/learn/learning-how-to-learn
+- https://www.educative.io/courses/grokking-the-system-design-interview (Paid)
+
+### Get domains
+
+- https://get.tech 
+
+### Websites for Web developers:
+- http://responsively.app
+- http://caniuse.com
+- http://colormind.io 
+- http://teachyourselfcode.io
+- https://hihayk.github.io/scale/#4/6/50/80/0/0/20/50/C71E68/199/30/104/white
+
+### Javascript resources 
+
+- https://www.notion.so/JS-Knowledge-5b3b764a595e4494beed9aa96d707efb
+
+### Create gist
+
+- https://gist.github.com/
