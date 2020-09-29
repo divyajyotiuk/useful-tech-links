@@ -109,3 +109,6 @@ All the bookmarked and useful links come here!
 ### Create gist
 
 - https://gist.github.com/
+
+### Google registry
+- https://whats.new/ -> .new All the shortcuts for visiting different sites
