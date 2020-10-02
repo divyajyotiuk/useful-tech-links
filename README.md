@@ -112,3 +112,17 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 
 ### Google registry
 - https://whats.new/ -> .new All the shortcuts for visiting different sites
+
+### Colors for CSS
+http://colors.co/
+https://colorhunt.co/
+http://paletton.com/#uid=1490u0kB1s6noACup-9F3mPL3hq
+https://www.color-hex.com/
+https://mycolor.space/
+https://materialuicolors.co/
+https://flatuicolors.com/
+https://cssgradient.io/
+https://imagecolorpicker.com/en/
+
+### All in one css resources
+https://nadialaasri.me/blog/make-your-first-css-art
