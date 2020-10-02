@@ -46,6 +46,7 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 
 - https://www.firsttimersonly.com/
 - https://up-for-grabs.net/
+- https://goodfirstissues.com/
 
 ### Math resources 
 
