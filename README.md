@@ -8,9 +8,9 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - https://www.coursera.org/
 - http://freecodecamp.org
 - http://codecademy.com
-- http://coursera.org
 - http://sololearn.com
 - http://khanacademy.org
+- https://www.udacity.com/
 
 ### Clojure related
 
@@ -45,6 +45,7 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 ### Open source contribution reference
 
 - https://www.firsttimersonly.com/
+- https://up-for-grabs.net/
 
 ### Math resources 
 
