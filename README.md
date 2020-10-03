@@ -13,9 +13,6 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - https://www.udacity.com/
 - https://learn.shayhowe.com/
 
-### Chrome Extensions
-- https://chrome.google.com/webstore/detail/frontend-50/ihinimimogofhkjebjhaadnlnbpajfmi
-
 ### Clojure related
 
 - https://hackr.io/tutorials/learn-clojure?sort=upvotes&type_tags%5B%5D=1
@@ -99,14 +96,15 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 
 ### Get domains
 
-- https://get.tech 
+- https://get.tech
 
 ### Websites for Web developers:
 - http://responsively.app
 - http://caniuse.com
-- http://colormind.io 
 - http://teachyourselfcode.io
 - https://hihayk.github.io/scale/#4/6/50/80/0/0/20/50/C71E68/199/30/104/white
+- Learn CSS art https://nadialaasri.me/blog/make-your-first-css-art
+- Chrome Extension https://chrome.google.com/webstore/detail/frontend-50/ihinimimogofhkjebjhaadnlnbpajfmi
 
 ### Javascript resources 
 
@@ -121,15 +119,13 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - https://whats.new/ -> .new All the shortcuts for visiting different sites
 
 ### Colors for CSS
-http://colors.co/
-https://colorhunt.co/
-http://paletton.com/#uid=1490u0kB1s6noACup-9F3mPL3hq
-https://www.color-hex.com/
-https://mycolor.space/
-https://materialuicolors.co/
-https://flatuicolors.com/
-https://cssgradient.io/
-https://imagecolorpicker.com/en/
-
-### All in one css resources
-https://nadialaasri.me/blog/make-your-first-css-art
+- http://colors.co/
+- https://colorhunt.co/
+- http://paletton.com/#uid=1490u0kB1s6noACup-9F3mPL3hq
+- https://www.color-hex.com/
+- https://mycolor.space/
+- https://materialuicolors.co/
+- https://flatuicolors.com/
+- https://cssgradient.io/
+- https://imagecolorpicker.com/en/
+- http://colormind.io
