@@ -129,3 +129,8 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - https://cssgradient.io/
 - https://imagecolorpicker.com/en/
 - http://colormind.io
+
+### CSS Smooth Shadow Generator
+
+https://neumorphism.io/
+https://brumm.af/shadows
