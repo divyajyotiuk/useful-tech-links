@@ -11,6 +11,10 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - http://coursera.org
 - http://sololearn.com
 - http://khanacademy.org
+- https://learn.shayhowe.com/
+
+### Chrome Extensions
+- https://chrome.google.com/webstore/detail/frontend-50/ihinimimogofhkjebjhaadnlnbpajfmi
 
 ### Clojure related
 
@@ -105,6 +109,7 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 ### Javascript resources 
 
 - https://www.notion.so/JS-Knowledge-5b3b764a595e4494beed9aa96d707efb
+- https://javascript.info/
 
 ### Create gist
 
