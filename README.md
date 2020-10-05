@@ -14,6 +14,9 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - https://learn.shayhowe.com/
 - Youtube: <a href= 'https://www.youtube.com/c/Coreyms'> Corey Schafer </a>
 - Youtube: <a href= 'https://www.youtube.com/user/sentdex'> Sentdex </a>
+
+### List of books (Add in To-Read)
+
 - https://www.goodreads.com/series/139311-you-don-t-know-js (one of the best book series for JS lovers)
 
 ### Clojure related
@@ -41,10 +44,6 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 ### Beautify images of source code
 
 - https://carbon.now.sh/
-
-### Free favicon icon generator 
-
-- https://favicon.io/
 
 ### Open source contribution reference
 
@@ -186,6 +185,11 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 ### Icons for CSS
 - https://linea.io/
 - https://icomoon.io/
+
+
+### Free favicon icon generator 
+
+- https://favicon.io/
 
 ### React Resources
 
