@@ -14,6 +14,7 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - https://learn.shayhowe.com/
 - Youtube: <a href= 'https://www.youtube.com/c/Coreyms'> Corey Schafer </a>
 - Youtube: <a href= 'https://www.youtube.com/user/sentdex'> Sentdex </a>
+- https://www.goodreads.com/series/139311-you-don-t-know-js (one of the best book series for JS lovers)
 
 ### Clojure related
 
@@ -102,6 +103,7 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - https://projecteuler.net/
 - https://www.hackerearth.com/
 - https://exercism.io/
+- https://codesandbox.io/
 
 ### Content to bookmark
 - https://www.coursera.org/learn/learning-how-to-learn
@@ -119,11 +121,21 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - https://hihayk.github.io/scale/#4/6/50/80/0/0/20/50/C71E68/199/30/104/white
 - Chrome extension: https://chrome.google.com/webstore/detail/frontend-50/ihinimimogofhkjebjhaadnlnbpajfmi
 - (Beginner) CSS art: https://nadialaasri.me/blog/make-your-first-css-art
+- https://flexboxfroggy.com/
 
 ### Javascript resources 
 
 - https://www.notion.so/JS-Knowledge-5b3b764a595e4494beed9aa96d707efb
 - https://javascript.info/
+- https://www.digitalocean.com/community/tutorials?q=javascript
+- https://codepen.io/juliangarnier/pen/idhuG
+- https://blog.logrocket.com/how-javascript-works-optimizing-for-parsing-efficiency/
+- Youtube (Event Loops, callbacks, promises and async/await) -> https://www.youtube.com/watch?v=vn3tm0quoqE
+- https://codepen.io/jonasschmedtmann/pen/LeMqQa
+- https://www.freecodecamp.org/news/what-is-a-pure-function-in-javascript-acb887375dfe/
+- https://www.samanthaming.com/tidbits/37-dynamic-property-name-with-es6/
+- https://enmascript.com/articles/2018/10/22/why-I-prefer-objects-over-switch-statements
+
 
 ### Python resources
 
@@ -170,3 +182,17 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - https://neumorphism.io/
 - https://brumm.af/shadows
 
+### Icons for CSS
+- https://linea.io/
+- https://icomoon.io/
+
+### HTML/CSS/JS all in one place resource 
+- http://codingheroes.io/resources/
+
+### React Resources
+
+- https://www.robinwieruch.de/learn-react-js
+- https://www.robinwieruch.de/blog
+- https://reactjs.org/docs/getting-started.html
+- https://www.toptal.com/react/interview-questions?utm_campaign=Toptal%20Engineering%20Blog&utm_source=hs_email&utm_medium=email&utm_content=77789189&_hsenc=p2ANqtz--VeEEDxyXxY8jmglJsKfwdoQMX4VHP0S_G2brRXFAO_ezzmHgHTrSoOZh1o_uTSD3Dg5-PXQm8vxI00DmRs9Poa2Yy_eJsPEfG-MkkW0Wb5eHSYqI&_hsmi=77789189
+- https://reactjs.org/docs/faq-functions.html
