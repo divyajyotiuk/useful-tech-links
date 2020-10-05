@@ -80,6 +80,7 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - https://repl.it/
 - <a href='https://www.onlinegdb.com/'> Online GDB Compiler </a>
 - <a href='https://jupyter.org/try'> Online Jupyter Notebooks </a> ( Alternate : Google Colab )
+- https://codesandbox.io/
 
 ### Machine Learning 
 
@@ -103,7 +104,6 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - https://projecteuler.net/
 - https://www.hackerearth.com/
 - https://exercism.io/
-- https://codesandbox.io/
 
 ### Content to bookmark
 - https://www.coursera.org/learn/learning-how-to-learn
@@ -122,6 +122,7 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - Chrome extension: https://chrome.google.com/webstore/detail/frontend-50/ihinimimogofhkjebjhaadnlnbpajfmi
 - (Beginner) CSS art: https://nadialaasri.me/blog/make-your-first-css-art
 - https://flexboxfroggy.com/
+- http://codingheroes.io/resources/
 
 ### Javascript resources 
 
@@ -185,9 +186,6 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 ### Icons for CSS
 - https://linea.io/
 - https://icomoon.io/
-
-### HTML/CSS/JS all in one place resource 
-- http://codingheroes.io/resources/
 
 ### React Resources
 
