@@ -11,6 +11,7 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - http://sololearn.com
 - http://khanacademy.org
 - https://www.udacity.com/
+- https://www.geeksforgeeks.org/
 - https://learn.shayhowe.com/
 - Youtube: <a href= 'https://www.youtube.com/c/Coreyms'> Corey Schafer </a>
 - Youtube: <a href= 'https://www.youtube.com/user/sentdex'> Sentdex </a>
@@ -139,6 +140,8 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 
 ### Python resources
 
+- https://www.python.org/
+- https://www.learnpython.org/
 - <a href='https://www.w3schools.com/python/'> W3Schools Python (Basics) </a> 
 - Youtube: <a href='https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7'> Python For Beginners </a>
 - <a href='https://learnpythonthehardway.org/'> Learn Python The Hard Way </a>
