@@ -11,6 +11,7 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - http://sololearn.com
 - http://khanacademy.org
 - https://www.udacity.com/
+- https://www.geeksforgeeks.org/
 - https://learn.shayhowe.com/
 - Youtube: <a href= 'https://www.youtube.com/c/Coreyms'> Corey Schafer </a>
 - Youtube: <a href= 'https://www.youtube.com/user/sentdex'> Sentdex </a>
@@ -32,6 +33,7 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 
 - https://dev.to/
 - https://hashnode.com/
+- https://medium.com/
 
 ### Cover image maker
 
@@ -139,15 +141,29 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 
 ### Python resources
 
+- https://www.python.org/
+- https://www.learnpython.org/
 - <a href='https://www.w3schools.com/python/'> W3Schools Python (Basics) </a> 
 - Youtube: <a href='https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7'> Python For Beginners </a>
 - <a href='https://learnpythonthehardway.org/'> Learn Python The Hard Way </a>
+- https://developers.google.com/edu/python/
+- http://www.pythonchallenge.com/
+- https://pythonspot.com/
+- https://www.fullstackpython.com/table-of-contents.html
+- https://stephensugden.com/crash_into_python/
 
 ### Django resources 
 
 - <a href='https://simpleisbetterthancomplex.com/'> Simple is Better Than Complex ( Django Motivation ) </a>
 - <a href='https://tutorial.djangogirls.org/en/'>Django Girls (Blog) </a>
 - Youtube: <a href='https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p'> Corey Schafer's Tutorial For Beginners </a>
+
+### SQL Resources
+
+- https://sqlzoo.net/
+- https://online.stanford.edu/lagunita-learning-platform
+- https://www.khanacademy.org/computing/computer-programming/sql
+- https://sqlbolt.com/
 
 ### Web Scraping
 - <a href='https://www.crummy.com/software/BeautifulSoup/bs4/doc/'> Beautiful Soup Documentation </a>
