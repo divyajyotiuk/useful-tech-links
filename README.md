@@ -90,6 +90,7 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - Youtube: <a href='https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v'> Sentdex Machine Learning With Python </a>
 - One Stop For Machine Learning Theory: https://www.ritchieng.com/machine-learning-resources/#deep-learning-theory
 - Youtube: <a href='https://www.youtube.com/watch?v=OypPjvm4kiA&list=PL3XtGMELeTxytyFKrUu87EudAJiO4XK0u'> Macheads (ML Motivation) </a>
+- SVM http://web.mit.edu/6.034/wwwbob/svm.pdf
 
 ### Deep Learning
 - Youtube: <a href='https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI'> MIT Intro to Deep Learning </a>
