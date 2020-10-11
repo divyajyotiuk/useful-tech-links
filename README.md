@@ -91,6 +91,8 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - One Stop For Machine Learning Theory: https://www.ritchieng.com/machine-learning-resources/#deep-learning-theory
 - Youtube: <a href='https://www.youtube.com/watch?v=OypPjvm4kiA&list=PL3XtGMELeTxytyFKrUu87EudAJiO4XK0u'> Macheads (ML Motivation) </a>
 - SVM http://web.mit.edu/6.034/wwwbob/svm.pdf
+- https://statquest.org/video-index/
+- Joshua Stormer Stat Quest Youtube https://www.youtube.com/user/joshstarmer
 
 ### Deep Learning
 - Youtube: <a href='https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI'> MIT Intro to Deep Learning </a>
