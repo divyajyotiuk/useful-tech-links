@@ -13,6 +13,8 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - https://www.udacity.com/
 - https://www.geeksforgeeks.org/
 - https://learn.shayhowe.com/
+- https://coursera.org/
+- https://udemy.com/
 - Youtube: <a href= 'https://www.youtube.com/c/Coreyms'> Corey Schafer </a>
 - Youtube: <a href= 'https://www.youtube.com/user/sentdex'> Sentdex </a>
 
@@ -108,6 +110,7 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - https://projecteuler.net/
 - https://www.hackerearth.com/
 - https://exercism.io/
+- https://codeforces.com/
 
 ### Content to bookmark
 - https://www.coursera.org/learn/learning-how-to-learn
@@ -116,6 +119,7 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 ### Get domains
 
 - https://get.tech 
+-https://hostinger.in/
 
 ### Websites for Web developers:
 - http://responsively.app
@@ -160,6 +164,8 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - <a href='https://simpleisbetterthancomplex.com/'> Simple is Better Than Complex ( Django Motivation ) </a>
 - <a href='https://tutorial.djangogirls.org/en/'>Django Girls (Blog) </a>
 - Youtube: <a href='https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p'> Corey Schafer's Tutorial For Beginners </a>
+- Youtube: <a href='https://www.youtube.com/watch?v=OTmQOjsl0eg'> Django Tutorial for Beginners | Full Course </a>
+
 
 ### SQL Resources
 
@@ -167,6 +173,7 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - https://online.stanford.edu/lagunita-learning-platform
 - https://www.khanacademy.org/computing/computer-programming/sql
 - https://sqlbolt.com/
+- Youtube: <a href='https://www.youtube.com/watch?v=HXV3zeQKqGY'> freecodecamp full SQL tutorial </a>
 
 ### Web Scraping
 - <a href='https://www.crummy.com/software/BeautifulSoup/bs4/doc/'> Beautiful Soup Documentation </a>
