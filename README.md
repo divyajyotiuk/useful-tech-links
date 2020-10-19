@@ -13,7 +13,6 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - https://www.udacity.com/
 - https://www.geeksforgeeks.org/
 - https://learn.shayhowe.com/
-- https://coursera.org/
 - https://udemy.com/
 - Youtube: <a href= 'https://www.youtube.com/c/Coreyms'> Corey Schafer </a>
 - Youtube: <a href= 'https://www.youtube.com/user/sentdex'> Sentdex </a>
@@ -40,6 +39,10 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 ### Cover image maker
 
 - https://coverview.now.sh/
+
+### Design
+
+- https://www.canva.com/
 
 ### tweet-scheduler 
 
