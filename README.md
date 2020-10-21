@@ -225,5 +225,10 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - https://www.robinwieruch.de/learn-react-js
 - https://www.robinwieruch.de/blog
 - https://reactjs.org/docs/getting-started.html
-- https://www.toptal.com/react/interview-questions?utm_campaign=Toptal%20Engineering%20Blog&utm_source=hs_email&utm_medium=email&utm_content=77789189&_hsenc=p2ANqtz--VeEEDxyXxY8jmglJsKfwdoQMX4VHP0S_G2brRXFAO_ezzmHgHTrSoOZh1o_uTSD3Dg5-PXQm8vxI00DmRs9Poa2Yy_eJsPEfG-MkkW0Wb5eHSYqI&_hsmi=77789189
 - https://reactjs.org/docs/faq-functions.html
+
+## Interview Series
+
+### React Interview Resources
+
+- https://www.toptal.com/react/interview-questions?utm_campaign=Toptal%20Engineering%20Blog&utm_source=hs_email&utm_medium=email&utm_content=77789189&_hsenc=p2ANqtz--VeEEDxyXxY8jmglJsKfwdoQMX4VHP0S_G2brRXFAO_ezzmHgHTrSoOZh1o_uTSD3Dg5-PXQm8vxI00DmRs9Poa2Yy_eJsPEfG-MkkW0Wb5eHSYqI&_hsmi=77789189
