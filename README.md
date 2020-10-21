@@ -122,7 +122,7 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 ### Get domains
 
 - https://get.tech 
--https://hostinger.in/
+- https://hostinger.in/
 
 ### Websites for Web developers:
 - http://responsively.app
