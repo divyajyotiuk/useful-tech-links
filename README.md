@@ -242,6 +242,21 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - https://linea.io/
 - https://icomoon.io/
 
+### Illustration resources 
+
+- https://www.drawkit.io/
+- https://mixkit.co
+- https://undraw.co
+- https://humaaans.com
+- https://freepik.com
+- https://usesmash.com
+- https://manypixels.co/gallery
+- https://control.rocks/
+- https://opendoodles.com
+- https://icons8.com/illustrations
+- https://delesign.com/free-designs/graphics
+- https://iradesign.io/gallery/illustrations
+- https://lukaszadam.com/illustrations
 
 ### Free favicon icon generator 
 
@@ -262,8 +277,33 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - https://ui.dev/free-react-bootcamp/
 - https://egghead.io/courses/the-beginner-s-guide-to-react
 - https://react-hooks-cheatsheet.com/
+- Blogs on react https://dev.to/t/react
+- https://welearncode.com/complete-beginners-guide-react-2020/
+- https://dev.to/theme_selection/reactjs-roadmap-for-developers-2824
+- React Tutorial for Beginners https://www.youtube.com/watch?v=Ke90Tje7VS0 
+
+### Learn SEO
+
+- https://moz.com/
+- https://ahrefs.com
+- https://semrush.com
+- https://backlinko.com
+- https://neilpatel.com
+- https://mangools.com
+- https://wordstream.com
+- https://searchenginejournal.com
+- https://thehoth.com
 
 ## Interview Series
+
+### Tech Interview Resources
+
+- https://github.com/yangshun/tech-interview-handbook
+- https://github.com/jwasham/coding-interview-university
+- https://github.com/Olshansk/interview
+- https://github.com/MaximAbramchuck/awesome-interview-questions
+- https://github.com/kdn251/interviews
+- https://github.com/cassidoo/getting-a-gig
 
 ### React Interview Resources
 
