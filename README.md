@@ -68,22 +68,22 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - https://vercel.com/
 - https://www.netlify.com/
 - https://www.pythonanywhere.com
-- firebase.google.com
-- aws.amazon.com/free
-- heroku.com
-- pages.github.com
-- surge.sh
-- render.com
+- https://firebase.google.com/
+- https://aws.amazon.com/free/
+- https://www.heroku.com/
+- https://pages.github.com/
+- https://surge.sh/
+- https://render.com/
 - https://docs.gitlab.com/ee/user/project/pages/
-- stormkit.io
+- https://www.stormkit.io/
 - http://azure.microsoft.com/en-us/services/app-service/static/
-- hostman.com
-- glitch.com
-- fleek.co
-- begin.com
-- heliohost.org
-- kintohub.com
-- fosshost.org
+- https://hostman.com/
+- https://glitch.com/
+- https://fleek.co/
+- https://begin.com/
+- https://www.heliohost.org/
+- https://www.kintohub.com/
+- https://fosshost.org/
 
 ### Cron services
 
@@ -262,7 +262,6 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - https://ui.dev/free-react-bootcamp/
 - https://egghead.io/courses/the-beginner-s-guide-to-react
 - https://react-hooks-cheatsheet.com/
-- 
 
 ## Interview Series
 
