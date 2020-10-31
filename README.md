@@ -93,10 +93,6 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 
 - https://roadmap.sh/backend
 
-### System Design
-
-- https://github.com/donnemartin/system-design-primer
-
 ### Online IDE
 
 - https://repl.it/
@@ -304,7 +300,13 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - https://github.com/MaximAbramchuck/awesome-interview-questions
 - https://github.com/kdn251/interviews
 - https://github.com/cassidoo/getting-a-gig
+- https://github.com/jayshah19949596/CodingInterviews
+- System Design https://www.freecodecamp.org/news/systems-design-for-interviews/
+- System design https://github.com/donnemartin/system-design-primer
+- Leetcode solutions Java https://github.com/gouthampradhan/leetcode
+- JS Algos https://github.com/trekhleb/javascript-algorithms
 
 ### React Interview Resources
 
 - https://www.toptal.com/react/interview-questions?utm_campaign=Toptal%20Engineering%20Blog&utm_source=hs_email&utm_medium=email&utm_content=77789189&_hsenc=p2ANqtz--VeEEDxyXxY8jmglJsKfwdoQMX4VHP0S_G2brRXFAO_ezzmHgHTrSoOZh1o_uTSD3Dg5-PXQm8vxI00DmRs9Poa2Yy_eJsPEfG-MkkW0Wb5eHSYqI&_hsmi=77789189
+- https://github.com/sudheerj/reactjs-interview-questions
