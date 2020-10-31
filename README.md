@@ -68,6 +68,22 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - https://vercel.com/
 - https://www.netlify.com/
 - https://www.pythonanywhere.com
+- firebase.google.com
+- aws.amazon.com/free
+- heroku.com
+- pages.github.com
+- surge.sh
+- render.com
+- https://docs.gitlab.com/ee/user/project/pages/
+- stormkit.io
+- http://azure.microsoft.com/en-us/services/app-service/static/
+- hostman.com
+- glitch.com
+- fleek.co
+- begin.com
+- heliohost.org
+- kintohub.com
+- fosshost.org
 
 ### Cron services
 
@@ -100,8 +116,17 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - Joshua Stormer Stat Quest Youtube https://www.youtube.com/user/joshstarmer
 
 ### Deep Learning
+
 - Youtube: <a href='https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI'> MIT Intro to Deep Learning </a>
 - Youtube: <a href='https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH'> Neural Networks </a>(by Hugo Larochelle)
+
+### Computer Vision (CV)
+
+- https://docs.opencv.org/master/d9/df8/tutorial_root.html
+- https://www.coursera.org/learn/deep-neural-networks-with-pytorch
+- https://www.tensorflow.org/resources/learn-ml
+- https://www.udacity.com/course/introduction-to-computer-vision--ud810
+- https://www.coursera.org/learn/convolutional-neural-networks
 
 ### Coding Platforms
 
@@ -114,6 +139,7 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - https://www.hackerearth.com/
 - https://exercism.io/
 - https://codeforces.com/
+- https://nlogn.in/
 
 ### Content to bookmark
 - https://www.coursera.org/learn/learning-how-to-learn
@@ -227,6 +253,16 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - https://www.robinwieruch.de/blog
 - https://reactjs.org/docs/getting-started.html
 - https://reactjs.org/docs/faq-functions.html
+- https://www.newline.co/fullstack-react/30-days-of-react/
+- Youtube Deconstructing React || Tejas Kumar https://www.youtube.com/watch?v=f2mMOiCSj5c&feature=youtu.be
+- https://www.freecodecamp.org/news/building-chrome-extensions-in-react-parcel-79d0240dd58f/
+- https://daveceddia.com/react-project-structure/
+- Youtube Learn Building Applications with React and Redux https://www.youtube.com/watch?v=4lF7IiIHliU&feature=youtu.be
+- https://scrimba.com/learn/learnreact
+- https://ui.dev/free-react-bootcamp/
+- https://egghead.io/courses/the-beginner-s-guide-to-react
+- https://react-hooks-cheatsheet.com/
+- 
 
 ## Interview Series
 
