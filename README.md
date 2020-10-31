@@ -44,9 +44,10 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 
 - https://www.canva.com/
 
-### tweet-scheduler 
+### Twitter analytics app & schedulers
 
 - https://twittimer.com/app/#/
+- https://dashboard.tweetastic.app/
 
 ### Beautify images of source code
 
@@ -140,6 +141,7 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 ### Content to bookmark
 - https://www.coursera.org/learn/learning-how-to-learn
 - https://www.educative.io/courses/grokking-the-system-design-interview (Paid)
+- https://github.com/TheAlgorithms (in all languages)
 
 ### Get domains
 
