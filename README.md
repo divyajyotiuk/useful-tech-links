@@ -142,6 +142,7 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - https://www.coursera.org/learn/learning-how-to-learn
 - https://www.educative.io/courses/grokking-the-system-design-interview (Paid)
 - https://github.com/TheAlgorithms (in all languages)
+- Make CLI fun https://teachcode.madlabs.xyz/
 
 ### Get domains
 
