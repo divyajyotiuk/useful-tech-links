@@ -148,6 +148,8 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 
 - https://get.tech 
 - https://hostinger.in/
+- Wildcard DNS - nip.io
+- https://porkbun.com/
 
 ### Websites for Web developers:
 - http://responsively.app
