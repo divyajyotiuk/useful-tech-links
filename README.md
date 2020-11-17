@@ -30,6 +30,10 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 
 - https://nextjs.org/learn/basics/create-nextjs-app
 
+### Rejex
+
+- https://regex101.com/
+
 ### tech blogs
 
 - https://dev.to/
