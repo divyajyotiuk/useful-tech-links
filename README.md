@@ -21,6 +21,10 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 
 - https://www.goodreads.com/series/139311-you-don-t-know-js (one of the best book series for JS lovers)
 
+### Free for developers
+
+- https://free-for.dev/#/
+
 ### Clojure related
 
 - https://hackr.io/tutorials/learn-clojure?sort=upvotes&type_tags%5B%5D=1
