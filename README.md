@@ -242,6 +242,7 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - https://cssgradient.io/
 - https://imagecolorpicker.com/en/
 - http://colormind.io
+- Names of colors - https://chir.ag/projects/name-that-color
 
 ### CSS Smooth Shadow Generator
 
