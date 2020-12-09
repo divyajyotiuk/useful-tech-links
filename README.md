@@ -18,6 +18,10 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - Youtube: <a href= 'https://www.youtube.com/c/Coreyms'> Corey Schafer </a>
 - Youtube: <a href= 'https://www.youtube.com/user/sentdex'> Sentdex </a>
 
+### Tools for time management
+
+- https://100daysof.codes/
+
 ### List of books (Add in To-Read)
 
 - https://www.goodreads.com/series/139311-you-don-t-know-js (one of the best book series for JS lovers)
