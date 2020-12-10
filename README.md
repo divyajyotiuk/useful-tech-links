@@ -172,9 +172,13 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - http://teachyourselfcode.io
 - https://hihayk.github.io/scale/#4/6/50/80/0/0/20/50/C71E68/199/30/104/white
 - Chrome extension: https://chrome.google.com/webstore/detail/frontend-50/ihinimimogofhkjebjhaadnlnbpajfmi
-- (Beginner) CSS art: https://nadialaasri.me/blog/make-your-first-css-art
 - https://flexboxfroggy.com/
 - http://codingheroes.io/resources/
+
+### CSS resources
+
+- CSS Grid https://cssgrid.io/
+- (Beginner) CSS art: https://nadialaasri.me/blog/make-your-first-css-art
 
 ### Javascript resources 
 
