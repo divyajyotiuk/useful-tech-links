@@ -124,6 +124,7 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - SVM http://web.mit.edu/6.034/wwwbob/svm.pdf
 - https://statquest.org/video-index/
 - Joshua Stormer Stat Quest Youtube https://www.youtube.com/user/joshstarmer
+- Carnegie Mellon University http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml
 
 ### Deep Learning
 
