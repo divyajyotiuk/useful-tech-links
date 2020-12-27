@@ -145,7 +145,6 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - https://www.codewars.com/
 - https://www.codechef.com/
 - https://www.hackerrank.com/
-- https://codeforces.com/
 - https://projecteuler.net/
 - https://www.hackerearth.com/
 - https://exercism.io/
