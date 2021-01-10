@@ -206,6 +206,7 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - https://pythonspot.com/
 - https://www.fullstackpython.com/table-of-contents.html
 - https://stephensugden.com/crash_into_python/
+- https://github.com/Asabeneh/30-Days-Of-Python
 
 ### Django resources 
 
