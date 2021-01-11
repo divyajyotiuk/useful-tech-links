@@ -192,6 +192,9 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - https://www.samanthaming.com/tidbits/37-dynamic-property-name-with-es6/
 - https://enmascript.com/articles/2018/10/22/why-I-prefer-objects-over-switch-statements
 - Mixins https://justinfagnani.com/2015/12/21/real-mixins-with-javascript-classes/#bettermixinsthroughclassexpressions
+- https://github.com/leonardomso/33-js-concepts
+- https://github.com/Asabeneh/30-Days-Of-JavaScript
+- https://github.com/thejsway/thejsway
 
 
 ### Python resources
