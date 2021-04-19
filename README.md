@@ -332,6 +332,7 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 - System design https://github.com/donnemartin/system-design-primer
 - Leetcode solutions Java https://github.com/gouthampradhan/leetcode
 - JS Algos https://github.com/trekhleb/javascript-algorithms
+- Coding Interview Prep https://www.freecodecamp.org/learn/coding-interview-prep/#algorithms
 
 ### React Interview Resources
 
