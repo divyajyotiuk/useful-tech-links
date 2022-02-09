@@ -2,6 +2,9 @@
 
 All the bookmarked and useful links come here! The aim is to bring all the necessary tech links under one repository and make it a one-stop solution to find resources for the tech geeks out there!
 
+### Cheatsheet
+- Rico's cheatsheets https://devhints.io/
+
 ### WEB
 - Chrome Architecture comic - https://www.google.com/googlebooks/chrome/
 
