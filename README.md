@@ -325,6 +325,8 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 
 ## Interview Series
 
+- 14 GitHub Repositories to Ace Your JavaScript Interviews https://madza.hashnode.dev/14-github-repositories-to-ace-your-javascript-interviews
+
 ### Tech Interview Resources
 
 - https://github.com/yangshun/tech-interview-handbook
