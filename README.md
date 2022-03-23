@@ -325,11 +325,12 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 
 ## Interview Series
 
+- UI Engineer Inteerview Prep - https://javascript.plainenglish.io/how-to-ace-a-ui-engineer-interview-1cfbdcf2ec83
+- https://bigfrontend.dev/problem
 - 14 GitHub Repositories to Ace Your JavaScript Interviews https://madza.hashnode.dev/14-github-repositories-to-ace-your-javascript-interviews
 
 ### Tech Interview Resources
 
-- **Plan to ace** - https://javascript.plainenglish.io/how-to-ace-a-ui-engineer-interview-1cfbdcf2ec83
 - https://github.com/yangshun/tech-interview-handbook
 - https://github.com/jwasham/coding-interview-university
 - https://github.com/Olshansk/interview
