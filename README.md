@@ -329,6 +329,7 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 
 ### Tech Interview Resources
 
+- **Plan to ace** - https://javascript.plainenglish.io/how-to-ace-a-ui-engineer-interview-1cfbdcf2ec83
 - https://github.com/yangshun/tech-interview-handbook
 - https://github.com/jwasham/coding-interview-university
 - https://github.com/Olshansk/interview
