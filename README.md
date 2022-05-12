@@ -62,6 +62,7 @@ All the bookmarked and useful links come here! The aim is to bring all the neces
 ### Design
 
 - https://www.canva.com/
+- https://freebiesupply.com/
 
 ### Twitter analytics app & schedulers
 
